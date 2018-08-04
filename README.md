@@ -4,7 +4,7 @@ Neo4j is a popular graph database.
 
 # Setup
 
-* Follow Docker setup directions explained in Elasticsearch repo ([here](https://github.com/accenture-ops-ai/elasticsearch-docker))
+* Follow Docker setup directions ([here])
 * Install and run neo4j:
 ``` shell
 sudo docker run -d \
